@@ -1,4 +1,4 @@
-# Web Log Analysis Using Splunk and AWS S3
+# Turn Big Data into Answers with Splunk: Web Log Analysis Using Splunk and AWS S3
 
 This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
