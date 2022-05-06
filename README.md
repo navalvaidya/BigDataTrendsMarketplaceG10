@@ -2,6 +2,8 @@
 
 This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
+Group 10: Aleksandra Singer, Arv Ramchandani, Harsha Moturi, Jingzhi Ren, Naval Vaidya, Vijay Kumar Siddaiah
+
 **Dataset:** https://www.kaggle.com/code/eliasdabbas/webserver-log-file-analysis/notebook
 
 **Requirements:**
@@ -34,7 +36,8 @@ Install the Splunk Add-on for Amazon Web Services (AWS) to your free trial insta
 **For more details for configuration visit:** https://docs.splunk.com/Documentation/AddOns/released/AWS/SplunkCloud 
 
 ## Demo
-Once the connection is established between splunk and S3 we can create various visualtizations or Dashboards on the web log data. Please follow the below demo link to ubderstand the exact use cases:
+Once the connection is established between splunk and S3 we can create various visualtizations or Dashboards on the web log data. Please follow the below demo link to understand the exact use cases.
+
 **Link:** https://youtu.be/V0T5IYoYOZE
 
 ### What is Splunk?
